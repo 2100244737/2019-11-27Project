@@ -119,6 +119,7 @@ ul {
 li {
   display: inline-block;
   margin: 0 10px;
+   width:200px; /*no*/  //此符号不转成rem
 }
 a {
   color: #42b983;
